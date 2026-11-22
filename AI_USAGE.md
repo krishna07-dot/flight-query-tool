@@ -32,7 +32,7 @@ Checking code functionality.
 2.Help me understand the assignment requirements.
 
 ## What I changed or verified myself
-Reviewed the implementation.
+i programmed the code snippets myself using the help of ai get logic and i idea of algorithm 
 
 Ran the program using the provided datasets.
 
